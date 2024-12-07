@@ -25,7 +25,7 @@ This repository reflects my commitment to continuous learning and serves as a re
 
 ## 💡 How to Use  
 - Browse the `.sql` files to explore examples of SQL operations.  
-- Refer to the `SQL_Notes.pdf` for syntax explanations and practical tips.  
+- Refer to the `SQL Course Notes.pdf` for syntax explanations and practical tips.  
 
 Feel free to fork this repository, use it as a learning tool, or share feedback. Let's grow together in mastering SQL!  
 
